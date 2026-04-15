@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @EagleEye808
+/src/backend/database.py      @EagleEye808
+/src/backend/routers/auth.py  @EagleEye808
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @EagleEye808
